@@ -6,4 +6,4 @@
 REPORT Z_GCTS_CONFLICT_TEST.
 WRITE 'Version 1 - Created in S4D'.
 WRITE 'Version 1 - Created in S4Q'.
-WRITE 'CD'.
+WRITE 'CDEF'.
