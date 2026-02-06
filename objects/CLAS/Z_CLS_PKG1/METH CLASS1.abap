@@ -1,3 +1,3 @@
   method CLASS1.
-WRITE '1'.
+WRITE '12'.
   endmethod.
