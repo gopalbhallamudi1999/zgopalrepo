@@ -4,3 +4,5 @@ class ZCL_BASE_DEP definition
   create public .
 
 public section.
+
+  methods RUN .
