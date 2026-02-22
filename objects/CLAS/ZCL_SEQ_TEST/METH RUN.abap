@@ -1,3 +1,3 @@
 METHOD run.
-  WRITE 'Version 1'.
+  WRITE 'Version 2'.
 ENDMETHOD.
