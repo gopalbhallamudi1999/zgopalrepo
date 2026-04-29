@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZGCTS_TEST_3.
 WRITE 'Testing ZGCTS_TEST_3'.
+WRITE 'Testing TR Activation'.
