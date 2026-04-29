@@ -1,0 +1,57 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZGCTS_TEST_3",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"ROPL081",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_GCTS_TEST",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2026-04-29",
+    "CHECK_DATE":"2026-04-29",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZGCTS_TEST_3",
+    "VARCL":"X",
+    "SUBC":"1",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZGCTS_TEST_3",
+    "SPRSL":"E",
+    "TEXT":"Program ZGCTS_TEST_3"
+   }
+  ]
+ }
+]
